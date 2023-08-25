@@ -1,4 +1,5 @@
-import { NavLink } from '../components/NavLink'
+import { NavLink } from '../../components/NavLink'
+import { PopularProducts } from './PopularProducts'
 
 export function HomePage () {
   return (
@@ -14,11 +15,7 @@ export function HomePage () {
           </aside>
         </article>
       </section>
-      <section className='bg-gray-100 min-h-screen'>
-        <article>
-          <h2>Most Popular Products</h2>
-        </article>
-      </section>
+      <PopularProducts />
       <section className='h-72'>
         <article>
           <div>
