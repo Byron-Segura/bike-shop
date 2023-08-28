@@ -2,7 +2,7 @@ export function Products (products) {
   console.log(products)
   return (
     <>
-      <ul className='flex flex-col md:flex-row py-10 gap-8 items-center justify-center'>
+      <ul className='flex flex-col lg:flex-row py-10 gap-8 items-center justify-center'>
         {products.products.map(product => {
           return (
             <li key={product.id} className='max-w-sm cursor-pointer hover:scale-105 transition-transform duration-150'>
