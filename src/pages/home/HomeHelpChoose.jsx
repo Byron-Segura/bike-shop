@@ -8,7 +8,7 @@ export function HomeHelpChoose () {
         <div className='mt-8 md:mt-0 px-10 flex flex-col justify-center gap-8 md:gap-14'>
           <h2 className='text-xl md:text-2xl lg:text-3xl text-slate-800'>Don't now what type of Bicycle do you need?</h2>
           <p className='text-lg font-light'>We can help you to choose the perfect bike fpr youre necesities, you can choose between road bicycles, trail, active, etc. Take a look to our models and enjoy!</p>
-          <NavLink style='bg-red-600 hover:bg-black p-2 text-center text-white'>Choose a Bicycle</NavLink>
+          <NavLink styles='bg-orange-500 hover:bg-zinc-800 p-2 text-center text-white'>Choose a Bicycle</NavLink>
         </div>
       </article>
     </section>
