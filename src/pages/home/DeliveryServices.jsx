@@ -1,22 +1,22 @@
 export function DeliveryServices () {
   return (
-    <section className='bg-gray-800'>
-      <article className='h-2/3 p-8 md:p-16 flex flex-col md:flex-row gap-18 md:gap-16 font-light'>
-        <img src='../src/assets/home-image-03.jpg' alt='Delivery service' className='max-w-xl' />
-        <div className='text-slate-200'>
-          <h2 className='text-4xl font-bold'>The best service</h2>
-          <p>Free worldwide delivery in orders above $100</p>
-          <ul className='text-slate-200 py-4 flex flex-row gap-8 text-lg'>
+    <section className='bg-slate-900'>
+      <article className='h-2/3 p-6 md:p-10 flex flex-col-reverse md:flex-row gap-2 md:gap-12 font-light items-center'>
+        <div className='text-slate-200 p-4 py-8'>
+          <h2 className='text-4xl font-bold pb-4 text-orange-500'>The best service</h2>
+          <p className='text-lg'>All the products in this website are ready for delivery. The delivery service is available worldwide. Free delivery in orders above $100 and it will be delivered in a period of 1 or 2 weeks after order the products.</p>
+          <ul className='text-slate-200 py-8 flex flex-row gap-8 text-md sm:text-lg md:text-xl justify-center lg:justify-start'>
             <li className='flex flex-row gap-2 items-center'>
-              <img src='../src/assets/delivery-icon.webp' alt='Fast delivery icon' />
+              <img src='../src/assets/delivery-icon.svg' alt='Fast delivery icon' />
               <h4>Fast Delivery</h4>
             </li>
             <li className='flex flex-row gap-2 items-center'>
-              <img src='../src/assets/delivery-icon.webp' alt='Fast delivery icon' />
+              <img src='../src/assets/security-icon.svg' alt='Fast delivery icon' />
               <h4>Quality Insurance</h4>
             </li>
           </ul>
         </div>
+        <img src='../src/assets/home-image-03.jpg' alt='Delivery service' className='w-80 sm:w-3/6' />
       </article>
     </section>
   )
