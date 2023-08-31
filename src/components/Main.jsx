@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom'
 import { HomePage } from '../pages/home/Home'
 import { ChooseBike } from '../pages/ChooseBike'
 import { About } from '../pages/About'
-import { Bikes } from '../pages/Bikes'
+import { Bikes } from '../pages/bikes/Bikes'
 
 export function Main () {
   return (
