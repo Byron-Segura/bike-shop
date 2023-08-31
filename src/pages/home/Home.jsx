@@ -1,4 +1,6 @@
 import { NavLink } from '../../components/NavLink'
+import { DeliveryServices } from './DeliveryServices'
+import { HomeHelpChoose } from './HomeHelpChoose'
 import { PopularProducts } from './PopularProducts'
 
 export function HomePage () {
@@ -10,28 +12,14 @@ export function HomePage () {
             <div className='text-center flex flex-col justify-center items-center gap-8 md:gap-12 text-slate-200 p-8'>
               <h3 className='text-5xl md:text-8xl'>Welcome to BikeBuy</h3>
               <h2 className='text-xl md:text-3xl'>The best bike shop in the world!</h2>
-              <NavLink to='all-bikes' style='bg-gray-900 hover:bg-pink-700 p-12 py-4'>BIKES</NavLink>
+              <NavLink to='all-bikes' styles='bg-zinc-900 hover:bg-orange-500 p-12 py-4'>BIKES</NavLink>
             </div>
           </aside>
         </article>
       </section>
       <PopularProducts />
-      <section className='h-72'>
-        <article>
-          <div>
-            <h2>Don't now what Bicycle you need?</h2>
-            <p>Let us help you!</p>
-            <NavLink style='bg-gray-900 hover:bg-pink-700 p-12 py-4'>Choose a Bicycle</NavLink>
-          </div>
-        </article>
-      </section>
-      <section>
-        <article className='bg-teal-900 h-96'>
-          <h2>Tienda Virtual de ciclismo</h2>
-          <p>Envios gratuitos mundialmente para compras mayores de $100</p>
-          <NavLink style='bg-gray-900 hover:bg-pink-700 p-12 py-4'>About Us</NavLink>
-        </article>
-      </section>
+      <HomeHelpChoose />
+      <DeliveryServices />
     </div>
   )
 }
