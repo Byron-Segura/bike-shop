@@ -1,9 +1,9 @@
 export function DeliveryServices () {
   return (
-    <section className='bg-slate-900'>
+    <section className='bg-zinc-900'>
       <article className='h-2/3 p-6 md:p-10 flex flex-col-reverse md:flex-row gap-2 md:gap-12 font-light items-center'>
         <div className='text-slate-200 p-4 py-8'>
-          <h2 className='text-4xl font-bold pb-4 text-orange-500'>The best service</h2>
+          <h2 className='text-4xl font-normal pb-4 text-orange-500'>The best service</h2>
           <p className='text-lg'>All the products in this website are ready for delivery. The delivery service is available worldwide. Free delivery in orders above $100 and it will be delivered in a period of 1 or 2 weeks after order the products.</p>
           <ul className='text-slate-200 py-8 flex flex-row gap-8 text-md sm:text-lg md:text-xl justify-center lg:justify-start'>
             <li className='flex flex-row gap-2 items-center'>
