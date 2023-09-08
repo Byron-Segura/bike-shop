@@ -4,7 +4,7 @@
       "id": 1,
       "type": "road",
       "name": "Teammachine SLR FIVE",
-      "image": "road-bike-01",
+      "image": "road-bike-01.jpg",
       "description": "The legendary performance of the Teammachine SLR in a widely accessible package. Designed with TCC Race technology in the Teammachine SLR Carbon frame and fork as well as Stealth Dropouts and internal cable routing, this road bike understands the meaning of high performance. The Teammachine SLR Five is finished with electronic Shimano 105 Di2 shifting, a Mavic Open Disc wheelset, and our proprietary aluminium bar and stem for a stellar ride.",
       "price": "$4,499.00",
       "specifications": [
@@ -33,7 +33,7 @@
       "id": 2,
       "type": "road",
       "name": "Roadmachine X ONE",
-      "image": "road-bike-02",
+      "image": "road-bike-02.jpg",
       "description": "Roadmachine X extends the Roadmachine’s reach well beyond paved roads, opening up countless new ways of getting from A to B, via C, D and E. Its Premium Carbon frame and fork are designed using TCC Endurance technology, with internal cable routing, a Premium Carbon D-Shape seatpost and advanced ICS stem with Micro Travel technology for comfort over the rough stuff. Its 1x SRAM Force eTap AXS 12-speed groupset, 35mm CRD-321 Carbon tubeless-ready wheels, and 32mm WTB tires show the obvious potential of this all-road bike.",
       "price": "$5,999.00",
       "specifications": [
@@ -62,7 +62,7 @@
       "id": 3,
       "type": "road",
       "name": "Roadmachine 01 THREE",
-      "image": "road-bike-03",
+      "image": "road-bike-03.png",
       "description": "The extraordinarily capable Roadmachine 01 combines relentless speed with indulgent comfort, so you can go further, faster. Its Premium Carbon frame and fork were designed using TCC Endurance technology, and feature ICS technology, Stealth Cable Routing and a Premium Carbon D-Shape seatpost. Our ICS2 stem and RCB01 compact carbon handlebar complement a build that includes Shimano’s Ultegra Di2 12-speed compact groupset, and 45mm DT Swiss ERC 1400 Dicut wheels with 28mm tires.",
       "price": "$8,499.00",
       "specifications": [
@@ -91,7 +91,7 @@
       "id": 4,
       "type": "urban",
       "name": "257 AL ONE",
-      "image": "urban-bike-01",
+      "image": "urban-bike-01.jpg",
       "description": "The 257 ONE is your all-new urban bike of choice. With its clean looks, exacting attention to detail and functional integration, this is your partner in crime for daily rides. Its Premium Aluminium frame is light, versatile and powder coated for durability. Integrated StVZO certified lights, premium fenders and the reliable Shimano Alfine 8 groupset with beltdrive gives you that joyful elegant feeling of velocity and safety.",
       "price": "$2,099.00",
       "specifications": [
@@ -120,7 +120,7 @@
       "id": 5,
       "type": "urban",
       "name": "257 AMP AL ONE ST USA",
-      "image": "urban-bike-02",
+      "image": "urban-bike-02.jpg",
       "description": "An all-new Urban boost, the 257 AMP is your amplified partner in crime for daily rides. With its clean looks, exacting attention to detail and functional integration, the 257 AMP ONE ST features a lightweight and versatile Premium Aluminium frame with powder coated finish for durability. The naturally engaging and powerful BOSCH Performance CX belt drive motor combined with the comfort enhancing ICS MTT Stem and premium lights give you that joyful elegant feeling of velocity and safety.",
       "price": "$4,999.00",
       "specifications": [
@@ -149,7 +149,7 @@
       "id": 6,
       "type": "urban",
       "name": "257 AL FOUT ST",
-      "image": "urban-bike-03",
+      "image": "urban-bike-03.jpg",
       "description": "With its clean looks, exacting attention to detail and functional integration, the 257 Four ST is the partner in crime for your daily rides. Its Premium Aluminium frame is light, versatile and powder coated for durability. A powerful kickstand, premium fenders and the intuitive Shimano Deore 1x11 single chainring groupset gives you that joyful elegant feeling of velocity and safety.",
       "price": "$1,499.00",
       "specifications": [
@@ -178,7 +178,7 @@
       "id": 7,
       "type": "gravel",
       "name": "Kaius 01 ONE",
-      "image": "gravel-bike-01",
+      "image": "gravel-bike-01.jpg",
       "description": "Kaius is a premium carbon gravel bike built to be your elite race companion for all terrains. The unprecedented carbon layup and gravel-specific geometry ensure the perfect balance of stiffness, lightweight, and compliance for optimal traction on loose surfaces, front-end stability, and unmatched climbing prowess. Harnessing the precision and performance of our renowned leading road technologies, Kaius is a race machine tuned to the gravel wavelength with the engineered Kaius fork, our signature ICS Carbon Aero Cockpit, TCC Race compliance, compatibility with 1x and 2x drivetrains and up to 44 mm of tire clearance.",
       "price": "$11,999.00",
       "specifications": [
@@ -207,7 +207,7 @@
       "id": 8,
       "type": "gravel",
       "name": "Kaius 01 TWO",
-      "image": "gravel-bike-02",
+      "image": "gravel-bike-02.jpg",
       "description": "Kaius is a premium carbon gravel bike built to be your elite race companion for all terrains. The unprecedented carbon layup and gravel-specific geometry ensure the perfect balance of stiffness, lightweight, and compliance for optimal traction on loose surfaces, front-end stability, and unmatched climbing prowess. Harnessing the precision and performance of our renowned leading road technologies, Kaius is a race machine tuned to the gravel wavelength with the engineered Kaius fork, our signature ICS2 stem and conventional bar, TCC Race compliance, compatibility with 1x and 2x drivetrains and up to 44 mm of tire clearance.",
       "price": "$8,999.00",
       "specifications": [
@@ -236,7 +236,7 @@
       "id": 9,
       "type": "gravel",
       "name": "URS 01 TWO",
-      "image": "gravel-bike-03",
+      "image": "gravel-bike-03.jpg",
       "description": "There’s nothing grizzled about the sleek looks of our lightest, most integrated URS, a bike with all the performance a dedicated gravel rider needs. Its gravel-conquering Premium Carbon frameset boasts ICS and MTT technologies, plus epic practicality from multiple mounts, Gravel+ geometry and large tire clearance. The SRAM Force eTap AXS 12-speed with an ultra-wide SRAM Eagle cassette creates a useful ‘mullet’ drivetrain, while 40mm CRD-400 Carbon, tubeless-ready wheels supply the speed for this gravel bike.",
       "price": "$7,999.00",
       "specifications": [
@@ -265,7 +265,7 @@
       "id": 10,
       "type": "mountain",
       "name": "Fourstroke 01 LTD",
-      "image": "mountain-bike-01",
+      "image": "mountain-bike-01.jpg",
       "description": "Fourstroke 01 is an XCO performance bike that exceeds the demands of the world’s top racers. On a mission to set the pace with our unique Autodrop technology and unrivalled APS dual-link suspension with 100mm of front and rear travel, it bests the competition in a Premium Carbon frame. This revolutionized racing machine arrives with integrated protection and is designed around the progressive BWC geometry, now accommodating two water bottles in the front triangle for long-distance missions. Fourstroke 01 LTD is your all-new secret weapon and arrives with a SRAM XX1 Eagle AXS drivetrain, Fox Float 32 SC Factory fork and Fox Float DPS Factory shock, DT Swiss XRC 1200 wheels and the BMC Autodrop integrated dropper seatpost.",
       "price": "$13,999.00",
       "specifications": [
@@ -294,7 +294,7 @@
       "id": 11,
       "type": "mountain",
       "name": "Fourstroke 01 ONE",
-      "image": "mountain-bike-02",
+      "image": "mountain-bike-02.jpg",
       "description": "Fourstroke 01 is an XCO performance bike that exceeds the demands of the world’s top racers. On a mission to set the pace with our unique Autodrop technology and unrivalled APS dual-link suspension with 100mm of front and rear travel, it bests the competition in a Premium Carbon frame. This revolutionized racing machine arrives with integrated protection and is designed around the progressive BWC geometry, now accommodating two water bottles in the front triangle for long-distance missions. Fourstroke 01 ONE is a medal winning machine with a SRAM X01 Eagle AXS drivetrain, RockShox SID Ultimate fork and RockShox SIDLuxe Ultimate shock, DT Swiss XRC 1501 wheels and the BMC Autodrop integrated dropper seatpost.",
       "price": "$11,499.00",
       "specifications": [
@@ -323,7 +323,7 @@
       "id": 12,
       "type": "mountain",
       "name": "Fourstroke LTD TWO",
-      "image": "mountain-bike-03",
+      "image": "mountain-bike-03.jpg",
       "description": "Fourstroke LT is an XC bike designed for riders who want even more performance. Offering trail-riding at speed with progressive 120mm of our updated APS dual-link suspension travel, there is no limit to what you and the Fourstroke LT can achieve. The full-carbon frame includes our most progressive BWC geometry now fitting two water bottles, integrated fork stopper and frame protection. Fourstroke LT TWO plays the trails with confidence with a Shimano SLX drivetrain, RockShox SID RL fork and RockShox SIDLuxe Select+ shock, Alex MD30 wheels with 30mm inner width and the X-Fusion Manic seatpost.",
       "price": "$4,999.00",
       "specifications": [
@@ -352,7 +352,7 @@
       "id": 13,
       "type": "active",
       "name": "Alpenchallenge AL ONE",
-      "image": "active-bike-01",
+      "image": "active-bike-01.jpg",
       "description": "With its classy looks, exacting attention to detail and practical integration, the Alpenchallenge AL could only be a BMC. Its sporty, endurance-inspired, smooth welded, powder coated Premium Aluminium frame is paired with a carbon fork with fender and cargo mounts, and internal hub dynamo routing. An adventurous component specification has a 12-speed SRAM Eagle AXS drivetrain with ultra-wide gear ratios, Magura MT4 disc brakes, SR500 wheelset, and Pirelli Cycl-e GT 37mm tires.",
       "price": "$2,899.00",
       "specifications": [
@@ -381,7 +381,7 @@
       "id": 14,
       "type": "active",
       "name": "Alpenchallenge AL TWO",
-      "image": "active-bike-02",
+      "image": "active-bike-02.jpg",
       "description": "With its classy looks, exacting attention to detail and practical integration, the Alpenchallenge AL could only be a BMC. Its sporty, endurance-inspired, smooth welded, Premium Aluminium frame and fork have fender mounts, and the internally cabled frame is powder coated for durability. Its mechanical 12-speed SRAM Eagle drivetrain is geared to take you everywhere, Magura’s MT4 disc brakes moderate your speed, and it rolls on an SR500 wheelset with 37mm Pirelli Cycl-e GT tires.",
       "price": "$1,899.00",
       "specifications": [
@@ -410,7 +410,7 @@
       "id": 15,
       "type": "active",
       "name": "Alpenchallenge AL THREE",
-      "image": "active-bike-03",
+      "image": "active-bike-03.jpg",
       "description": "With its classy looks, exacting attention to detail and practical integration, the Alpenchallenge AL could only be a BMC. Its sporty, endurance-inspired, smooth welded, Premium Aluminium frame and fork have fender mounts, and the internally cabled frame is powder coated for durability. Shimano’s wide ratio 12-speed Deore drivetrain is paired with an FSA Vero Pro crankset and Shimano MT200 disc brakes, and the wheels are PFR300, with Pirelli’s 37mm Cycl-e GT tires.",
       "price": "$1,499.00",
       "specifications": [
