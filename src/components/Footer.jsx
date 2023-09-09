@@ -2,7 +2,7 @@ import { NavLink } from './NavLink'
 
 export function Footer () {
   return (
-    <section className='bg-zinc-950 h-fit md:h-[70vh]'>
+    <section className='bg-zinc-950 h-fit md:h-[70vh] flex flex-col justify-between'>
       <article className='p-4 h-4/5 md:p-8 text-zinc-100 flex flex-col sm:flex-row gap-8 sm:justify-evenly items-center sm:items-start'>
         <div className='pt-6 w-80'>
           <h2 className='border-b-2 border-b-orange-800 text-3xl py-2'>Shop</h2>
@@ -38,7 +38,7 @@ export function Footer () {
           </ul>
         </div>
       </article>
-      <div className='relative bottom-0 mt-12 bg-zinc-900 text-zinc-200 flex items-center justify-center p-2 font-extralight text-sm'>
+      <div className='relative bottom-0 bg-zinc-900 text-zinc-200 flex items-center justify-center p-2 font-extralight text-sm'>
         <h3>Made by Byron Segura</h3>
       </div>
     </section>
