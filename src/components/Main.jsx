@@ -11,7 +11,9 @@ export function Main () {
         <Route path='/' element={<HomePage />} />
         <Route path='choose-bike' element={<ChooseBike />} />
         <Route path='about-us' element={<About />} />
-        <Route path='all-bikes' element={<Bikes />} />
+        <Route path='bikes' element={<Bikes />}>
+          <Route path='/bikes/:type' element={<Bikes />} />
+        </Route>
       </Routes>
     </main>
   )
