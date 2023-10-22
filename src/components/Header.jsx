@@ -12,7 +12,7 @@ export function Header () {
         </NavLink>
         <div className='flex flex-row items-center justify-center md:min-h-full'>
           <ul className='text-center grid grid-cols-3 auto-cols-auto sm:grid-cols-4 place-content-center gap-2 md:gap-4 p-2 px-4 '>
-            <NavLink to='all-bikes'>Bicycles</NavLink>
+            <NavLink to='bikes'>Bicycles</NavLink>
             <NavLink to='choose-bike'>Choose Bike</NavLink>
             <NavLink to='choose-bike'>Protection</NavLink>
             <NavLink to='about-us' styles='text-base md:text-md md:hover:text-orange-500 text-slate-200 transition-colors font-medium col-start-2 sm:col-start-auto pr-4'>About Us</NavLink>
