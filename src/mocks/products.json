@@ -435,5 +435,55 @@
         }
       ]
     }
-  ]
+  ],
+  "protection": [
+    {
+      "helmets": [
+        {
+          "id": 1,
+          "type": "helmet",
+          "name": "257 AL ONE",
+          "image": "a",
+          "price": "111",
+          "description": "aaaaaaaaaaaaaa"
+        }
+      ],
+      "codilleras": [
+        {
+          "id": 1,
+          "type": "helmet",
+          "name": "257 AL ONE",
+          "image": "a",
+          "price": "111",
+          "description": "aaaaaaaaaaaaaa"
+        }
+      ],
+      "rodilleras": [
+        {
+          "id": 1,
+          "type": "helmet",
+          "name": "257 AL ONE",
+          "image": "a",
+          "price": "111",
+          "description": "aaaaaaaaaaaaaa"
+        }
+      ]
+    }
+  ],
+  "heroImageDescriptions": {
+    "road": "Designed for epic roads, dominating cobbles and pure speed against the clock, our bikes unlock your potential.",
+    "gravel": "Go beyond roads, expand your horizons and embrace your Gravel wanderlust.",
+    "mountain": "From kids to the World Cup racers, via every trail and wilderness explorer, our mountain bikes deliver.",
+    "active": "Born to meet your daily challenges with style, efficiency and a sporty feel.",
+    "urban": "Enhanced Swiss mobility that caters to the commuter.",
+    "defaultDescription": "Find your next bike"
+  },
+  "heroImagePath": {
+    "road": "road-bike-hero.jpg",
+    "gravel": "gravel-bike-hero.jpg",
+    "mountain": "mountain-bike-hero.jpg",
+    "active": "active-bike-hero.jpg",
+    "urban": "urban-bike-hero.jpg",
+    "defaultImg": "all-bikes-hero.jpg"
+  }
 }
