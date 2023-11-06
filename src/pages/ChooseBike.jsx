@@ -7,7 +7,7 @@ export function ChooseBike () {
   return (
     <section>
       <HeroImage image='../src/assets/choose-bike-hero-img.jpeg'>
-        <h2 className='text-2xl md:text-4xl mt-8 '>CHOOSE BIKE</h2>
+        <h2 className='text-2xl md:text-4xl mt-8 '>Choose Bike</h2>
         <p className='mt-8 text-lg sm:text-xl md:text-3xl pr-16'>Choose a bike acording to your lifestyle.</p>
       </HeroImage>
       <ul className='p-8 flex flex-col gap-8 justify-center max-w-7xl align-middle'>
@@ -37,7 +37,7 @@ export function ChooseBike () {
         </li>
         <li className='flex flex-col md:flex-row gap-8'>
           <img src='../src/assets/choose-mountain-bike.jpg' className='h-[250px] w-[400px]' alt='' />
-          <aside className='flex flex-col gap-8 max-w-3xl'>
+          <aside className='flex flex-col gap-8 md:max-w-lg lg:max-w-3xl'>
             <h3 className='text-3xl text-zinc-700'>Mountain Bikes</h3>
             <p>The MTB is suitable for almost any surface and can offer you everything from relaxed off-road riding fun to 100% action on the trails in rough terrain. E-MTBs are also no longer a rarity. Even sworn MTB riders say: pure riding fun!</p>
             <NavLink to='../bikes/mountain' styles={navLinkStyle}>See Mountain Bikes</NavLink>
@@ -45,8 +45,8 @@ export function ChooseBike () {
         </li>
         <li className='flex flex-col md:flex-row gap-8'>
           <img src='../src/assets/choose-active-bike-true.jpg' className='h-[250px] w-[400px]' alt='' />
-          <aside className='flex flex-col gap-8 max-w-3xl'>
-            <h3 className='text-3xl text-zinc-700'>City Bikes</h3>
+          <aside className='flex flex-col gap-8 md:max-w-md lg:max-w-3xl'>
+            <h3 className='text-3xl text-zinc-700'>Active Bikes</h3>
             <p>Whether you're conquering mountain trails, cruising through city streets, or embarking on long distance touring, active bikes offer the perfect mobility solution to keep you on the move and in peak physical condition.</p>
             <NavLink to='../bikes/active' styles={navLinkStyle}>See Active Bikes</NavLink>
           </aside>
