@@ -3,6 +3,7 @@ import { HomePage } from '../pages/home/Home'
 import { ChooseBike } from '../pages/ChooseBike'
 import { About } from '../pages/About'
 import { Bikes } from '../pages/bikes/Bikes'
+import { ProtectionProducts } from '../pages/protection/ProtectionProducts'
 
 export function Main () {
   return (
@@ -10,6 +11,7 @@ export function Main () {
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='choose-bike' element={<ChooseBike />} />
+        <Route path='protection-gear' element={<ProtectionProducts />} />
         <Route path='about-us' element={<About />} />
         <Route path='bikes' element={<Bikes />}>
           <Route path='/bikes/:type' element={<Bikes />} />
