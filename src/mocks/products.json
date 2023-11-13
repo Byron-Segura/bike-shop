@@ -438,36 +438,100 @@
   ],
   "protection": [
     {
-      "helmets": [
-        {
-          "id": 1,
-          "type": "helmet",
-          "name": "257 AL ONE",
-          "image": "a",
-          "price": "111",
-          "description": "aaaaaaaaaaaaaa"
-        }
-      ],
-      "codilleras": [
-        {
-          "id": 1,
-          "type": "helmet",
-          "name": "257 AL ONE",
-          "image": "a",
-          "price": "111",
-          "description": "aaaaaaaaaaaaaa"
-        }
-      ],
-      "rodilleras": [
-        {
-          "id": 1,
-          "type": "helmet",
-          "name": "257 AL ONE",
-          "image": "a",
-          "price": "111",
-          "description": "aaaaaaaaaaaaaa"
-        }
-      ]
+      "id": 1,
+      "name": "Specialized S-Works Evade 3 Helmet - MIPS Air Node - Black",
+      "image": "helmet-01.jpg",
+      "type": "helmet",
+      "price": "$244.99",
+      "description": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": 2,
+      "name": "Specialized Align II MIPS Helmet - Black/Black Reflective",
+      "image": "helmet-02.jpg",
+      "type": "helmet",
+      "price": "$44,99",
+      "description": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": 3,
+      "name": "Troy Lee Designs D3 Fiberlite Helmet - Mono Black",
+      "image": "helmet-03.jpg",
+      "type": "helmet",
+      "price": "$214,99",
+      "description": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": 4,
+      "name": "Leatt MTB Enduro 3.0 Helmet - stlth",
+      "image": "helmet-04.jpg",
+      "type": "helmet",
+      "price": "$226,99",
+      "description": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": 5,
+      "name": "Giro Cinder MIPS Helmet - matte black / charcoal",
+      "image": "helmet-05.jpg",
+      "type": "helmet",
+      "price": "$91,99",
+      "description": "aaaaaaaaaaaaaa"
+    },
+    {
+      "id": 6,
+      "name": "Sutro Lite Sweep Ascend Collection",
+      "image": "glasses-01.jpg",
+      "type": "glasses",
+      "price": "$97,00",
+      "description": "In the world of sport, passion and motivation drive you to do what you love. The Ascend Collection is inspired by the excitement and optimism that reignites athletes to pursue the game in whatever way moves them.A splatter paint design across all eyewear invokes the high energy of the athletic pursuit to be the best, in whatever way it looks for each athlete. The Ascend Collection is available with Prizm™ Lens Technology designed to enhance color, contrast and detail to make the most of any activity."
+    },
+    {
+      "id": 7,
+      "name": "Resistor (Youth Fit) Re-Discover Collection",
+      "image": "glasses-02.jpg",
+      "type": "glasses",
+      "price": "$110,00",
+      "description": "The Rediscover Collection is inspired by your never-ending story. The collection pairs light and transparency with a color-shift paint technique like no other—exuding progression and self-expression. Be transformed in the Rediscover Collection available in sunglasses and optical frames for both adults and youth."
+    },
+    {
+      "id": 8,
+      "name": "Sutro S",
+      "image": "glasses-03.jpg",
+      "type": "glasses",
+      "price": "$173,00",
+      "description": "A scaled down version of the popular Sutro sunglass, Sutro S redefines the look of traditional sports-performance eyewear. Inspired by the daily life of urban cyclists, the high-wrap shield creates a bold, versatile look, protects from the elements and enhances vision with Prizm™ lens technology, while inspiring athletes to move confidently and seamlessly through their day."
+    },
+    {
+      "id": 9,
+      "name": "Switchback Mtb Glove 2.0",
+      "image": "glove-01.jpg",
+      "type": "accesories",
+      "price": "$45,00",
+      "description": "Your new all-mountain go-to. The men’s Switchback MTB Glove 2.0 is made to protect your hands from the trailhead to the summit and back. Packed with high-performance details like neoprene across the knuckles, welded material on the top fingers and a suede panel in the palm with light, strategically-placed padding. The Switchback keeps hands cool, too: it features stretchy mesh between the fingers and even a thumb panel to wipe sweat. A style statement with total grit."
+    },
+    {
+      "id": 10,
+      "name": "Drops Road Glove",
+      "image": "glove-01.jpg",
+      "type": "accesories",
+      "price": "$35,00",
+      "description": "For superior comfort and performance, this Drops Road Glove delivers at every turn. 4-way stretch ensures all-ride comfort and an improved rider experience, and the half finger design offers greater shift lever dexterity. A reinforced thumb gusset and padded palm provide lasting comfort on a variety of terrain, and the Velcro® closure delivers an ideal fit and finish. They’re finished with an Ellipse logo."
+    },
+    {
+      "id": 11,
+      "name": "Shimano XC3 Mountain Bike Shoes",
+      "image": "shoe-01.jpg",
+      "type": "accesories",
+      "price": "$125,00",
+      "description": "Built for cross-country trails where light weight and efficiency matter, the men's Shimano XC3 mountain bike shoes are a high-performance choice that are comfortable to wear on and off the bike."
+    },
+    {
+      "id": 12,
+      "name": "Shimano EX500W Cycling Shoes",
+      "image": "shoe-01.jpg",
+      "type": "accesories",
+      "price": "$140,00",
+      "description": "Designed to provide comfort on big tours, the men's Shimano EX500W cycling shoes are versatile touring shoes with sporty styling and technical features."
     }
   ],
   "heroImageDescriptions": {
