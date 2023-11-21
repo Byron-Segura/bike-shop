@@ -1,5 +1,7 @@
 export function About () {
   return (
-    <h2>About</h2>
+    <section className='p-8'>
+      <h2>About</h2>
+    </section>
   )
 }
