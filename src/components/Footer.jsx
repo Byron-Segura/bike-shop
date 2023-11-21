@@ -7,9 +7,10 @@ export function Footer () {
         <div className='pt-6 w-80'>
           <h2 className='border-b-2 border-b-orange-800 text-3xl py-2'>Shop</h2>
           <ul className='flex flex-col gap-4 text-zinc-300 text-lg pt-2'>
-            <NavLink to='all-bikes' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>Bikes</NavLink>
-            <NavLink to='Choose a bike' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>Choose a bike</NavLink>
-            <NavLink to='Protection' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>Protection</NavLink>
+            <NavLink to='all-bikes' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>Bicycles</NavLink>
+            <NavLink to='choose-bike' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>Choose a bike</NavLink>
+            <NavLink to='protection-gear' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>Protection</NavLink>
+            <NavLink to='about' styles='w-fit text-zinc-300 hover:text-orange-500 pt-2  transition-colors'>About Us</NavLink>
           </ul>
         </div>
         <div className='pt-6 w-80'>
@@ -17,11 +18,11 @@ export function Footer () {
           <ul className='flex flex-col gap-4 text-zinc-300 text-lg pt-2'>
             <li>
               <h3>Email:</h3>
-              <h4 className='hover:text-orange-500 w-fit cursor-pointer'>bikebuy@gmail.com</h4>
+              <h4 className='hover:text-orange-500 w-fit cursor-pointer'>bike@buyyy.com</h4>
             </li>
             <li>
-              <h3>Celphone:</h3>
-              <h4 className='hover:text-orange-500 w-fit cursor-pointer'>1010 1001</h4>
+              <h3>Cellphone:</h3>
+              <h4 className='hover:text-orange-500 w-fit cursor-pointer'>77 7777 7777</h4>
             </li>
             <li>
               <h3>Location:</h3>
@@ -32,9 +33,9 @@ export function Footer () {
         <div className='pt-6 w-80'>
           <h2 className='border-b-2 border-b-orange-800 text-3xl py-2'>Social Media</h2>
           <ul className='flex flex-col gap-4 text-zinc-300 text-lg pt-2'>
-            <li>aw</li>
-            <li>ass</li>
-            <li>sd</li>
+            <li>Instagram</li>
+            <li>Twitter</li>
+            <li>Facebook</li>
           </ul>
         </div>
       </article>
